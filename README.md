@@ -20,8 +20,7 @@
 
 - React + TypeScript + Redux
 - TailwindCSS for styling
-- Sales data visualization using Chart.js
-- Sales data table with sorting & pagination
+
 
 ## Deployment
 
